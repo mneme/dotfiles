@@ -1,0 +1,9 @@
+*.py[co]
+
+.config/configstore/
+.config/yarn/global
+.elinks
+.DS_store
+.indium.json
+.#*
+
