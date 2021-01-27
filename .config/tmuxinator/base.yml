@@ -4,6 +4,5 @@ name: base
 root: ~/
 
 windows:
-  - web: browsh
   - glances: glances
   - ~: zsh

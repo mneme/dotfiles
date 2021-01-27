@@ -1,0 +1,10 @@
+---
+name: klapp
+project_root: "/Users/david.olsson/Projects/klarna-app/clients"
+windows:
+- zsh:
+    layout: 3c4e,210x49,0,0{105x49,0,0,0,104x49,106,0[104x24,106,0,1,104x24,106,25,2]}
+    panes:
+    - cd /Users/david.olsson/Projects/klarna-app/services
+    - cd /Users/david.olsson/Projects/klarna-app/clients
+    - cd /Users/david.olsson/Projects/klarna-app
